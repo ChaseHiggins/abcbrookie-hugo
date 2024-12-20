@@ -3,7 +3,7 @@ import { UserConfig } from "./src/config"
 const userConfig: UserConfig = {
     mount: {
         manual: false,
-        page_url: 'https://www.notion.so/5dc8acfa5ae34cd6982925d1af974d4d',
+        page_url: 'https://www.notion.so/Hugo-Test-161462f4e63080eab7fbfe0727be0050',
         pages: [
             // {
             //     page_id: '<page_id>',
